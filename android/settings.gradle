@@ -1,0 +1,3 @@
+rootProject.name = 'userlocations'
+
+include ':app'
